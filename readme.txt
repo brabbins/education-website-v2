@@ -17,7 +17,7 @@ Adds the Faculty of Education settings and options
 1. Faculty of Education Style
 1. Background Texture
 1. Department/ Unit Header
-1. Circled Featured Images for pages. Find out more.
+1. Circled Featured Images for pages. Find out more on clf.educ.ubc.ca.
 1. Back to Top link
 
 == Installation ==
